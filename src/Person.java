@@ -7,4 +7,6 @@ public class Person {
     private String name5;
     private String name7;
     private String name77;
+
+    private String m1;
 }
