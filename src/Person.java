@@ -8,5 +8,6 @@ public class Person {
     private String name7;
     private String name77;
     private String d1;
+    private String d2;
 
 }
